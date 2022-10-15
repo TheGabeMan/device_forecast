@@ -3,4 +3,6 @@ As a big fan of Home Assistant (https://www.home-assistant.io/) I've made some a
 
 It collects the forecast data from the forecast.solar API (https://forecast.solar/) and based on the Watt per hour value of your device, it shows at which times today your panels will deliver more power than your device uses.
 
+Lots of credits to Knut Kohl for creating the Forecast.solar API.
+
 PS: As I'm just starting writing in Python, and making in integration for Home Assistant is still way over my head, I kept it at this little script for now.
