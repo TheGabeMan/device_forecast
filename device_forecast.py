@@ -29,7 +29,7 @@ if jsonresponse['result'] == None:
 ## To see at what time you can start an heavy power user, we look at watt_hours_period
 
 ## What is the Watt Hour of your device. (Hourly)
-devices_watt_hour = [ ["dish washer",832] , ["washing machine",1400], ["dryer",2000] ]
+devices_watt_hour = [ ["dish washer",832] , ["washing machine",500], ["dryer",1800] ]
 
 ## What date is it?
 today = date.today()
